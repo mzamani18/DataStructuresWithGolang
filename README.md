@@ -27,3 +27,13 @@ in this repo i implement Trie and LinkList and BinaryTree data structures.
 3. search : search a data in O(log(n)) and this function return a bool.
 4. PreOrderTraversal : print data of tree in pre order traversal.
 ```
+
+
+#### Stack 
+```
+1. NewStack : for creating new Stack
+2. Push : push data to last of the Stack in o(1)
+3. Pop : delete and return last element of Stack in O(1)
+4. Top : return last element that exist in the Stack . if the stack be empty it will return -1.
+5. Len : return size of Stack.
+```
